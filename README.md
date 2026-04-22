@@ -4,32 +4,32 @@ I’m an aspiring Data Analyst with a strong foundation in transforming raw data
 
 
 # Current Skills
-Excel (advanced formulas, pivot tables, data cleaning)
-Tableau, Power BI (interactive dashboards, storytelling)
-SQL (data extraction, joins, aggregations)
-Microsoft Azure (basic data services and workflows)
+- Excel (advanced formulas, pivot tables, data cleaning)
+- Tableau, Power BI (interactive dashboards, storytelling)
+- SQL (data extraction, joins, aggregations)
+- Microsoft Azure (basic data services and workflows)
 
 # What my work involves
-Cleaning and preparing datasets for analysis
-Exploring data to identify patterns and trends
-Building dashboards that communicate insights effectively
-Write SQL queries to extract and manipulate data
-Support data-driven decision-making through clear reporting
+- Cleaning and preparing datasets for analysis
+- Exploring data to identify patterns and trends
+- Building dashboards that communicate insights effectively
+- Write SQL queries to extract and manipulate data
+- Support data-driven decision-making through clear reporting
 
 
 # I’m currently expanding my skills in:
 
-Advanced SQL and database optimization
-Data modelling and warehousing concepts
-Cloud-based analytics using Azure
-Real-world projects that demonstrate business impact
+- Advanced SQL and database optimisation
+- Data modelling and warehousing concepts
+- Cloud-based analytics using Azure
+- Real-world projects that demonstrate business impact
 
 
 # This repository showcases a range of projects where I:
 
-Analyse real-world datasets
-Create interactive dashboards
-Demonstrate problem-solving using data
+- Analyse real-world datasets
+- Create interactive dashboards
+- Demonstrate problem-solving using data
 
 
 ## Projects I have completed: 
