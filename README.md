@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Adam Juan Al-hasiniani 
 
-<!--
-**AJALH/AJALH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building my portfolio to show the projects I created during my course. 
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I have learnt: 
+
+- Excel and data basics 
+
+- Python / Google Colab 
+
+- SQL / MySQL Workbench 
+
+- Tableau / Power BI dashboards 
+
+ 
+
+ 
+
+## Projects I have completed: 
+
