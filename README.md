@@ -51,9 +51,36 @@ Developed an interactive Tableau dashboard to visualise life expectancy trends o
 <img width="993" height="801" alt="Tableau2" src="https://github.com/user-attachments/assets/58967907-60e7-47bf-8cdb-5c7ed3132ebc" />
 
 PowerBI:
+
+-Developed an interactive Power BI dashboard using Skillable, transforming raw data into clear visual insights through charts, filters, and reports. This demonstrates my ability to design user-friendly dashboards for data-driven decision-making.
 <img width="1959" height="1094" alt="PowerBI" src="https://github.com/user-attachments/assets/ff054fc6-5680-4ed5-9229-e87510cf7918" />
 
 <img width="2473" height="918" alt="PBI dashboard" src="https://github.com/user-attachments/assets/a81989eb-fcfd-40d2-847e-a3226a534836" />
+
+MySql:
+
+-Retail Database Design with MySQL:
+
+Designed a relational database system for a small retail business to manage inventory, sales, customers, and a loyalty program. This involved analysing business requirements, creating an efficient table structure with relationships, using SQL commands to build and populate the database, and considering maintenance, security, and data integrity.
+
+-MySQL World Database Querying:
+
+Completed a series of SQL queries using the world database to analyse global city and country data, including filtering, sorting, grouping, and joining tables. This practical demonstrates my ability to write SQL queries to extract insights such as population trends, life expectancy, and geographic data, while applying functions like COUNT, AVG, GROUP BY, and JOIN.
+Examples of these queries:
+
+
+<img width="781" height="522" alt="sql1" src="https://github.com/user-attachments/assets/3764efe8-7b3a-41e8-a26a-f23beb8b1e17" />
+
+
+<img width="746" height="492" alt="sql2" src="https://github.com/user-attachments/assets/fb77d92f-9e4a-435d-95eb-d9aa31e4cce7" />
+
+
+<img width="737" height="478" alt="sql3" src="https://github.com/user-attachments/assets/ed18bc9d-3345-43bb-9dfd-50d62ebb97b8" />
+
+
+<img width="743" height="422" alt="sql4" src="https://github.com/user-attachments/assets/3a2c65f9-077a-4f62-9fe9-6a8957336c35" />
+
+
 
 Python:
 
