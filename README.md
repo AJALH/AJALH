@@ -47,7 +47,7 @@ Tableau:
 Created a Tableau dashboard using a Spotify dataset to compare music genres based on popularity, danceability, and energy through bar charts. This highlights my ability to analyse and visualise trends in entertainment data for clear, comparative insights.
 <img width="1025" height="810" alt="Tableau1" src="https://github.com/user-attachments/assets/a343525c-455f-47ff-9d5f-606cc5e10ae5" />
 
-Developed an interactive Tableau dashboard to visualise life expectancy trends over time alongside population distribution by gender and country. This project demonstrates my ability to combine multiple visualisations into a cohesive dashboard for comparative analysis and insights.
+Used a Global Health Dataset to develop an interactive Tableau dashboard to visualise life expectancy trends over time alongside population distribution by gender and country. This project demonstrates my ability to combine multiple visualisations into a cohesive dashboard for comparative analysis and insights.
 <img width="993" height="801" alt="Tableau2" src="https://github.com/user-attachments/assets/58967907-60e7-47bf-8cdb-5c7ed3132ebc" />
 
 PowerBI:
